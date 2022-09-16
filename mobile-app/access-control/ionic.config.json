@@ -1,0 +1,7 @@
+{
+  "name": "access-control",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
